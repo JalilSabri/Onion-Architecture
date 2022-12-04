@@ -27,7 +27,7 @@ namespace OnionArch.Presentation.MVC
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute("defaultRoute", "{Controller=Home}/{Action=Index}");
+                endpoints.MapControllerRoute("defaultRoute", "{Controller=Course}/{Action=Index}");
             });
         }
     }
