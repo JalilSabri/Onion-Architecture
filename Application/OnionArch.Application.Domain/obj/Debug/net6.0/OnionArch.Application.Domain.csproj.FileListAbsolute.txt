@@ -1,0 +1,12 @@
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\bin\Debug\net6.0\OnionArch.Application.Domain.deps.json
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\bin\Debug\net6.0\OnionArch.Application.Domain.dll
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\bin\Debug\net6.0\OnionArch.Application.Domain.pdb
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.csproj.AssemblyReference.cache
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.AssemblyInfoInputs.cache
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.AssemblyInfo.cs
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.csproj.CoreCompileInputs.cache
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.dll
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\refint\OnionArch.Application.Domain.dll
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\OnionArch.Application.Domain.pdb
+F:\Companies\Github Projects\OnionArch\Application\OnionArch.Application.Domain\obj\Debug\net6.0\ref\OnionArch.Application.Domain.dll

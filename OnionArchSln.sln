@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArch.Infra.Data", "Inf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArch.Presentation.MVC", "Presentation\OnionArch.Presentation.MVC\OnionArch.Presentation.MVC.csproj", "{571F47A7-5CA0-4E39-91CF-6F6B55C45E62}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArch.Application.Core", "Application\OnionArch.Application.Core\OnionArch.Application.Core.csproj", "{AAD97799-1632-4E28-ABED-F7559DE67013}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArch.Infra.IoC", "Infrastructure\OnionArch.Infra.IoC\OnionArch.Infra.IoC.csproj", "{F06C5984-58C3-453F-98D3-C6D241CDBD14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{571F47A7-5CA0-4E39-91CF-6F6B55C45E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{571F47A7-5CA0-4E39-91CF-6F6B55C45E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{571F47A7-5CA0-4E39-91CF-6F6B55C45E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD97799-1632-4E28-ABED-F7559DE67013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD97799-1632-4E28-ABED-F7559DE67013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD97799-1632-4E28-ABED-F7559DE67013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD97799-1632-4E28-ABED-F7559DE67013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06C5984-58C3-453F-98D3-C6D241CDBD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06C5984-58C3-453F-98D3-C6D241CDBD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06C5984-58C3-453F-98D3-C6D241CDBD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06C5984-58C3-453F-98D3-C6D241CDBD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +55,8 @@ Global
 		{5D0A64D9-AA21-4CA2-96F0-8B3CA3ADED07} = {0A10AA2D-7B87-4F1D-B34C-6937F58E4083}
 		{830DAEDA-6C75-46EE-A95B-B525AA6CBE48} = {5649820F-3D51-4FFA-87BD-794DAF5E4036}
 		{571F47A7-5CA0-4E39-91CF-6F6B55C45E62} = {75D8E09F-74A1-4A72-9C8A-D135408476C7}
+		{AAD97799-1632-4E28-ABED-F7559DE67013} = {0A10AA2D-7B87-4F1D-B34C-6937F58E4083}
+		{F06C5984-58C3-453F-98D3-C6D241CDBD14} = {5649820F-3D51-4FFA-87BD-794DAF5E4036}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE11F848-449D-4902-8A10-197E97FEB871}
