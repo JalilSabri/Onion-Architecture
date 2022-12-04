@@ -1,6 +1,9 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using OnionArch.Presentation.MVC;
 
-app.MapGet("/", () => "Hello World!");
+var builder = WebApplication.CreateBuilder(args);
+Startup startup = new Startup(builder.Configuration);
+startup.ConfigureServices(builder.Services);
+var app = builder.Build();
+startup.Configure(app);
 
 app.Run();

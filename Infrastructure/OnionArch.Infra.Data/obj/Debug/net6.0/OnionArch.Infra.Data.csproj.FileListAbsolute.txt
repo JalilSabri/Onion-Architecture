@@ -1,0 +1,15 @@
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\bin\Debug\net6.0\OnionArch.Infra.Data.deps.json
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\bin\Debug\net6.0\OnionArch.Infra.Data.dll
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\bin\Debug\net6.0\OnionArch.Infra.Data.pdb
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\bin\Debug\net6.0\OnionArch.Application.Domain.dll
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\bin\Debug\net6.0\OnionArch.Application.Domain.pdb
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.csproj.AssemblyReference.cache
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.AssemblyInfoInputs.cache
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.AssemblyInfo.cs
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.csproj.CoreCompileInputs.cache
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.csproj.CopyComplete
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.dll
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\refint\OnionArch.Infra.Data.dll
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\OnionArch.Infra.Data.pdb
+F:\Companies\Github Projects\OnionArch\Infrastructure\OnionArch.Infra.Data\obj\Debug\net6.0\ref\OnionArch.Infra.Data.dll
